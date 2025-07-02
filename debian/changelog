@@ -1,5 +1,10 @@
-tree-sitter-cpp (0.23.4-1) UNRELEASED; urgency=medium
+tree-sitter-cpp (0.23.4-1) unstable; urgency=medium
 
-  * Initial release.
+  [ Dimitry Ishenko ]
+  * Add Debian packaging
 
- -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 02 Jul 2025 01:46:00 -0400
+  [ Amaan Qureshi ]
+  * 0.23.4
+  * fix: disallow recursive `grammar.js` files to be included
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 02 Jul 2025 13:57:58 -0400
