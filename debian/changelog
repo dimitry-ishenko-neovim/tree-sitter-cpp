@@ -1,3 +1,9 @@
+tree-sitter-cpp (0.23.4-2) unstable; urgency=medium
+
+  * d/copyright: simplify
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 02 Jul 2025 23:24:31 -0400
+
 tree-sitter-cpp (0.23.4-1) unstable; urgency=medium
 
   [ Dimitry Ishenko ]
